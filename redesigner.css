@@ -180,3 +180,12 @@ figcaption{
   font-family: 'Playfair Display', serif;
   padding-top: 5px;
 }
+.thumbnail{
+  max-height: 300px;
+}
+#cart{
+  font-family: inherit;
+  text-align: center;
+  font-weight: 600;
+
+}
